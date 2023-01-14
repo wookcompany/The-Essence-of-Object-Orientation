@@ -1,6 +1,6 @@
 # The-Essence-of-Object-Orientation
 객체지향의 사실과 오해[역할, 책임, 협력 관점에서 본 객체지향] 스터디
-
+https://product.kyobobook.co.kr/detail/S000001628109
 
 
 ## 스터디 진행 방법
