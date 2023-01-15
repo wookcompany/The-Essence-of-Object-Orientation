@@ -12,7 +12,7 @@ https://product.kyobobook.co.kr/detail/S000001628109
 
 | 목차          | 내용                                                         |
 | ------------- | ------------------------------------------------------------ |
-| 1장 ([2jae6](https://github.com/2jae6))   | [협력하는 객체들의 공동체]() |
+| 1장 ([2jae6](https://github.com/2jae6))   | [협력하는 객체들의 공동체](https://github.com/wookcompany/The-Essence-of-Object-Orientation/blob/main/%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94%20%EA%B0%9D%EC%B2%B4%EB%93%A4%EC%9D%98%20%EA%B3%B5%EB%8F%99%EC%B2%B4.md) |
 | 2장 ([ChangMin](https://github.com/chagmn))  | 이상한 나라의 객체 |
 | 3장 (2/25)  |  |
 | 4장 (3/4)   ||
