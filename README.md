@@ -8,14 +8,14 @@ https://product.kyobobook.co.kr/detail/S000001628109
 2. 맡지 않은 부분은 직접 공부해온다.
 3. 자신의 생각을 정리한다.
 
-## 일정
+## 목차
 
 | 목차          | 내용                                                         |
 | ------------- | ------------------------------------------------------------ |
 | 1장 ([2jae6](https://github.com/2jae6))   | [협력하는 객체들의 공동체](https://github.com/wookcompany/The-Essence-of-Object-Orientation/blob/main/%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94%20%EA%B0%9D%EC%B2%B4%EB%93%A4%EC%9D%98%20%EA%B3%B5%EB%8F%99%EC%B2%B4.md) |
 | 2장 ([ChangMin](https://github.com/chagmn))  | [이상한 나라의 객체](https://github.com/wookcompany/The-Essence-of-Object-Orientation/blob/main/이상한%20나라의%20객체.md) |
-| 3장 (2/25)  |  |
-| 4장 (3/4)   ||
-| 5장 (3/12)  | |
-| 6장 (3/19)  | |
-| 7장 (3/30)  | |
+| 3장   |  |
+| 4장    ||
+| 5장   | |
+| 6장   | |
+| 7장   | |
